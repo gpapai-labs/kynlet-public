@@ -97,42 +97,9 @@ We model engineering coordination as an **operational graph**: decisions and exe
 
 This is **mechanism language**, not a category claim. We are not selling “another knowledge graph platform.” We are building **propagation awareness** and **downstream impact reasoning** at decision-change time.
 
-```mermaid
-flowchart TB
-  subgraph capture["Capture"]
-    D[Decision / MVD]
-  end
+![Operational graph overview](assets/diagrams/operational-graph-overview.svg)
 
-  subgraph graph["Operational graph"]
-    N1[Execution node]
-    N2[Execution node]
-    N3[Hidden dependency]
-    D --> N1
-    D --> N2
-    D -.-> N3
-  end
-
-  subgraph change["Decision change"]
-    D2[Revised decision]
-    D -->|supersedes| D2
-  end
-
-  subgraph impact["Impact & resolution"]
-    I[Impact set]
-    R[Resolution queue]
-    D2 --> I
-    I --> R
-  end
-
-  N1 --> I
-  N2 --> I
-  N3 --> I
-
-  style D fill:#1a2332,stroke:#58a6ff,color:#e6edf3
-  style D2 fill:#1a2332,stroke:#58a6ff,color:#e6edf3
-  style I fill:#111318,stroke:#d29922,color:#e6edf3
-  style R fill:#111318,stroke:#3fb950,color:#e6edf3
-```
+*Product, architecture, and infrastructure changes flow into an operational graph, then downstream impact reasoning surfaces implementation drift, hidden dependencies, and stale context.*
 
 ---
 
