@@ -139,6 +139,25 @@ Use this founder hook on **conversational and walkthrough surfaces** — not as 
 - Secondary hooks must remain semantically aligned with propagation visibility and stale-context execution.
 - Figma/Gamma explorations may inform hooks here only after backport to this document — no silent drift from Mermaid or private positioning sources.
 
+## Approved founder-recognition hook
+
+> **You made a decision. The team kept building.**
+
+Emerged from the Kynlet Founder Walkthrough Deck and approved after narrative (Claude) review as a strong founder-recognition hook.
+
+Use this as a conversation opener, deck title, founder post hook, or walkthrough framing line. It is approved as a **recognition hook**, not as the canonical wedge.
+
+Canonical wedge remains:
+
+> **Kynlet shows what became wrong when a product decision changed.**
+
+### What this is / is not
+
+- A **secondary** recognition hook for founder conversation and walkthrough surfaces
+- Semantically aligned with **stale-context execution** (the team kept building after the decision changed)
+- **Not** the homepage hero headline, GitHub primary one-liner, or pitch-deck cover
+- **Not** a replacement for the canonical wedge
+
 ---
 
 # Approved Terminology
