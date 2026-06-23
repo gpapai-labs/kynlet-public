@@ -6,7 +6,7 @@
 
 *Pre-seed · Founder validation · No GA product*
 
-[Website](https://kynlet.com) · [GPAP AI Labs](https://github.com/gpapai-labs) · [Book a validation conversation](mailto:founders@kynlet.com)
+[Website](https://kynlet.com) · [GPAP AI Labs](https://github.com/gpapai-labs) · [Book a validation conversation](mailto:hello@kynlet.com)
 
 </div>
 
@@ -266,7 +266,7 @@ Honest phases — **dates are intentional omitted** until validation gates clear
 | **Success quote (target)** | *“This surfaced something I would have missed.”* |
 | **Public claims** | None of revenue, logos, or production scale in this repo |
 
-**Contact for validation:** [founders@kynlet.com](mailto:founders@kynlet.com)
+**Contact for validation:** [hello@kynlet.com](mailto:hello@kynlet.com)
 
 ---
 
@@ -310,7 +310,7 @@ Private implementation lives in the [gpapai-labs](https://github.com/gpapai-labs
 - **Product:** [kynlet.com](https://kynlet.com)  
 - **Organization:** [github.com/gpapai-labs](https://github.com/gpapai-labs)  
 - **Company:** [gitpushandpray.ai](https://www.gitpushandpray.ai)  
-- **Email:** [founders@kynlet.com](mailto:founders@kynlet.com)  
+- **Email:** [hello@kynlet.com](mailto:hello@kynlet.com)  
 
 ---
 
