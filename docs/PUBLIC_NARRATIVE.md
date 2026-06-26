@@ -51,7 +51,7 @@ Use as the primary product statement on YC, investor, GitHub, and pitch surfaces
 
 > Kynlet helps engineering teams keep execution aligned as decisions evolve.
 >
-> **Note:** The short hook (present tense, pattern framing) and the full wedge (past tense, detection moment) are intentionally distinct. The short hook describes what Kynlet sees in the world; the full wedge describes what Kynlet shows in a specific instance.
+> **Note:** The short hook and full branded wedge are intentionally related. Use the short hook for compact surfaces; use the full wedge when the product name is required.
 
 ---
 
@@ -194,10 +194,9 @@ Kynlet helps you know what becomes wrong when a product or technical decision ch
 
 ## Approved variants
 
-Must preserve past-tense clarity (“became wrong”) or equivalent outcome framing:
+Must preserve “becomes wrong” outcome framing:
 
 - Know what becomes wrong when a product or technical decision changes.
-- Know what becomes wrong when a product or technical decision changes. (short hook only)
 - Surface stale context and downstream drift after decisions evolve.
 - Detect execution paths still coupled to a decision you already reversed.
 - Kynlet helps engineering teams keep execution aligned as decisions evolve.
@@ -206,7 +205,8 @@ Must preserve past-tense clarity (“became wrong”) or equivalent outcome fram
 
 Do not use in new public copy:
 
-- Know what becomes wrong when a product or technical decision changes. (prior external wedge; removed in PRO-88 retrofit)
+- See what breaks when a decision changes. (removed in PRO-91 / PRO-88 retrofit)
+- Kynlet shows what became wrong when a product decision changed. (superseded canonical wedge)
 - No GA product (use **No live product**)
 - implied PMF, revenue, logos, or pilots unless factual
 - “platform” as primary category framing
