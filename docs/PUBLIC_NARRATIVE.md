@@ -31,31 +31,31 @@ Internal narrative reviews and strategy critiques live in private governance rep
 
 ---
 
-# Canonical Wedge
+## Canonical Wedge
 
 Two intentionally related forms — do not collapse them:
 
 **Short hook (present tense, pattern framing):**
 
-> **See what becomes wrong when a decision changes.**
+> **Know what becomes wrong when a product or technical decision changes.**
 
 Use on social, hero subheads, and anywhere you need a compact pattern statement. Do not replace it casually or add complexity unless narrative review approves a change.
 
-**Full wedge (past tense, detection moment; verbatim PRO-87 / PRO-88):**
+**Full wedge (verbatim):**
 
-> **Kynlet shows what became wrong when a product decision changed.**
+> **Kynlet helps you know what becomes wrong when a product or technical decision changes.**
 
 Use as the primary product statement on YC, investor, GitHub, and pitch surfaces.
 
 **Supporting line (landing / docs):**
 
 > Kynlet helps engineering teams keep execution aligned as decisions evolve.
-
+>
 > **Note:** The short hook (present tense, pattern framing) and the full wedge (past tense, detection moment) are intentionally distinct. The short hook describes what Kynlet sees in the world; the full wedge describes what Kynlet shows in a specific instance.
 
 ---
 
-# Core Problem Statement
+## Core Problem Statement
 
 Modern software teams move quickly.
 
@@ -77,11 +77,11 @@ Kynlet is in founder validation, exploring how technical teams see downstream im
 
 ---
 
-# One-Line Descriptions
+## One-Line Descriptions
 
 ## Primary (canonical)
 
-Kynlet shows what became wrong when a product decision changed.
+Kynlet helps you know what becomes wrong when a product or technical decision changes.
 
 ## Channel adaptation: validation-stage honest
 
@@ -95,7 +95,7 @@ Use Primary on YC applications, investor materials, GitHub repo descriptions, an
 
 ---
 
-# Approved Secondary Founder Hooks
+## Approved Secondary Founder Hooks
 
 Secondary hooks support **founder recognition** in conversation. They do not replace the canonical wedge.
 
@@ -114,7 +114,7 @@ Validated through Figma/Gamma exploration and narrative critique as a high-signa
 ### What this is not
 
 - **Not** the primary homepage wedge
-- **Not** a replacement for: *Kynlet shows what became wrong when a product decision changed.*
+- **Not** a replacement for: *Kynlet helps you know what becomes wrong when a product or technical decision changes.*
 - **Not** a new category claim or product descriptor
 
 ### Approved surfaces
@@ -149,7 +149,7 @@ Use this as a conversation opener, deck title, founder post hook, or walkthrough
 
 Canonical wedge remains:
 
-> **Kynlet shows what became wrong when a product decision changed.**
+> **Kynlet helps you know what becomes wrong when a product or technical decision changes.**
 
 ### What this is / is not
 
@@ -160,7 +160,7 @@ Canonical wedge remains:
 
 ---
 
-# Approved Terminology
+## Approved Terminology
 
 Use in public copy when describing pain, mechanism, or stage:
 
@@ -179,25 +179,25 @@ Use in public copy when describing pain, mechanism, or stage:
 
 ---
 
-# Narrative Governance Rules
+## Narrative Governance Rules
 
 Governance for this file and all public Kynlet surfaces. When copy conflicts with older drafts, **PRO-87 / PRO-88-aligned public copy in this document and private positioning sources wins.**
 
 ## Canonical wedge
 
-- **Short hook:** See what becomes wrong when a decision changes.
-- **Full wedge:** Kynlet shows what became wrong when a product decision changed.
+- **Short hook:** Know what becomes wrong when a product or technical decision changes.
+- **Full wedge:** Kynlet helps you know what becomes wrong when a product or technical decision changes.
 
 ## Canonical one-liner
 
-Kynlet shows what became wrong when a product decision changed.
+Kynlet helps you know what becomes wrong when a product or technical decision changes.
 
 ## Approved variants
 
 Must preserve past-tense clarity (“became wrong”) or equivalent outcome framing:
 
-- See what became wrong when a product decision changed.
-- See what becomes wrong when a decision changes. (short hook only)
+- Know what becomes wrong when a product or technical decision changes.
+- Know what becomes wrong when a product or technical decision changes. (short hook only)
 - Surface stale context and downstream drift after decisions evolve.
 - Detect execution paths still coupled to a decision you already reversed.
 - Kynlet helps engineering teams keep execution aligned as decisions evolve.
@@ -206,7 +206,7 @@ Must preserve past-tense clarity (“became wrong”) or equivalent outcome fram
 
 Do not use in new public copy:
 
-- See what breaks when a decision changes. (prior external wedge; removed in PRO-88 retrofit)
+- Know what becomes wrong when a product or technical decision changes. (prior external wedge; removed in PRO-88 retrofit)
 - No GA product (use **No live product**)
 - implied PMF, revenue, logos, or pilots unless factual
 - “platform” as primary category framing
@@ -277,7 +277,7 @@ Approved secondary hooks are listed in **Approved Secondary Founder Hooks** abov
 
 ---
 
-# Founder Role Definitions
+## Founder Role Definitions
 
 ## Aleksy Pyrz — Co-Founder, Product
 
@@ -289,7 +289,7 @@ Engineering ownership, platform and infrastructure architecture, and technical e
 
 ---
 
-# Validation-Stage Rules
+## Validation-Stage Rules
 
 Always:
 
@@ -307,7 +307,7 @@ Never:
 
 ---
 
-# Canonical Strategic Principle
+## Canonical Strategic Principle
 
 Kynlet should feel:
 

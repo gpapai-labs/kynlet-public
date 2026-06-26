@@ -2,7 +2,7 @@
 
 # Kynlet
 
-**What became wrong when a product decision changed.**
+**Know what becomes wrong when a product or technical decision changes.**
 
 *Pre-seed · Founder validation · No GA product*
 
@@ -18,7 +18,7 @@ Kynlet helps engineering teams **keep execution aligned as decisions evolve** �
 
 > **External wedge**
 >
-> Kynlet shows what became wrong when a product decision changed.
+> Kynlet helps you know what becomes wrong when a product or technical decision changes.
 
 > [!IMPORTANT]
 > **Current stage (honest)**
