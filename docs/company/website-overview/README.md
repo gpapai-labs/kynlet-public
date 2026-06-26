@@ -2,7 +2,7 @@
 
 External-facing website overview for Kynlet. Derivative publication document summarising approved positioning for external audiences.
 
-**Live download:** [kynlet.com/resources/website-overview.pdf](https://kynlet.com/resources/website-overview.pdf)
+**Live download:** [kynlet.com/resources/website-overview.pdf](https://www.kynlet.com/resources/website-overview.pdf)
 
 **Repository archive:** [KYNLET_WEBSITE_OVERVIEW.pdf](./KYNLET_WEBSITE_OVERVIEW.pdf)
 

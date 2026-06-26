@@ -6,7 +6,7 @@
 
 *Pre-seed · Founder validation · No GA product*
 
-[Website](https://kynlet.com) · [GPAP AI Labs](https://github.com/gpapai-labs) · [Book a validation conversation](mailto:hello@kynlet.com)
+[Website](https://www.kynlet.com) · [GPAP AI Labs](https://github.com/gpapai-labs) · [Book a validation conversation](https://www.kynlet.com/book-validation)
 
 </div>
 
@@ -266,7 +266,7 @@ Honest phases — **dates are intentional omitted** until validation gates clear
 | **Success quote (target)** | *“This surfaced something I would have missed.”* |
 | **Public claims** | None of revenue, logos, or production scale in this repo |
 
-**Contact for validation:** [hello@kynlet.com](mailto:hello@kynlet.com)
+**Contact for validation:** [hello@kynlet.com](mailto:hello@kynlet.com) · [Book validation](https://www.kynlet.com/book-validation)
 
 ---
 
@@ -307,10 +307,12 @@ Private implementation lives in the [gpapai-labs](https://github.com/gpapai-labs
 
 ## Links
 
-- **Product:** [kynlet.com](https://kynlet.com)  
+- **Product:** [www.kynlet.com](https://www.kynlet.com)  
 - **Organization:** [github.com/gpapai-labs](https://github.com/gpapai-labs)  
 - **Company:** [gitpushandpray.ai](https://www.gitpushandpray.ai)  
 - **Email:** [hello@kynlet.com](mailto:hello@kynlet.com)  
+- **Book validation:** [www.kynlet.com/book-validation](https://www.kynlet.com/book-validation)  
+- **Resources:** [www.kynlet.com/resources/](https://www.kynlet.com/resources/)  
 
 ---
 

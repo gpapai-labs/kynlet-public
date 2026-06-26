@@ -2,7 +2,7 @@
 
 External-facing founder interview invitation for Kynlet. Derivative publication document for pre-booking founder outreach — not a product demo or sales asset.
 
-**Live download:** [kynlet.com/resources/founder-interview-invitation.pdf](https://kynlet.com/resources/founder-interview-invitation.pdf)
+**Live download:** [kynlet.com/resources/founder-interview-invitation.pdf](https://www.kynlet.com/resources/founder-interview-invitation.pdf)
 
 **Repository archive:** [KYNLET_FOUNDER_INTERVIEW_INVITATION.pdf](./KYNLET_FOUNDER_INTERVIEW_INVITATION.pdf)
 
