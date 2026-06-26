@@ -2,7 +2,7 @@
 
 External-facing advisor brief for Kynlet. Derivative publication document for advisor and expert conversations — not an investor pitch or sales deck.
 
-**Live download:** [kynlet.com/resources/advisor-brief.pdf](https://kynlet.com/resources/advisor-brief.pdf)
+**Live download:** [kynlet.com/resources/advisor-brief.pdf](https://www.kynlet.com/resources/advisor-brief.pdf)
 
 **Repository archive:** [KYNLET_ADVISOR_BRIEF.pdf](./KYNLET_ADVISOR_BRIEF.pdf)
 

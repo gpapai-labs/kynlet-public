@@ -2,7 +2,7 @@
 
 External-facing founder interview pre-read for Kynlet. Derivative publication document for booked validation conversations — not a product demo or sales asset.
 
-**Live download:** [kynlet.com/resources/founder-interview-pre-read.pdf](https://kynlet.com/resources/founder-interview-pre-read.pdf)
+**Live download:** [kynlet.com/resources/founder-interview-pre-read.pdf](https://www.kynlet.com/resources/founder-interview-pre-read.pdf)
 
 **Repository archive:** [KYNLET_FOUNDER_INTERVIEW_PRE_READ.pdf](./KYNLET_FOUNDER_INTERVIEW_PRE_READ.pdf)
 
