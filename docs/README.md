@@ -6,6 +6,8 @@ Public validation and company materials. **Primary delivery:** [kynlet.com/resou
 
 **Book a validation conversation:** [kynlet.com/book-validation](https://www.kynlet.com/book-validation)
 
+**Publication gate:** PDFs listed here must pass [Public Collateral QA](https://github.com/gpapai-labs/aegis-docs/blob/main/governance/release/PUBLIC_COLLATERAL_QA.md) in `aegis-docs` before live URL updates.
+
 ---
 
 ## Founder Validation
