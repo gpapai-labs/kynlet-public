@@ -214,7 +214,7 @@ Architecture here is **target direction** for the Kynlet platform under active e
 > [!NOTE]
 > **Infrastructure posture**
 >
-> AWS-first, boring operations: managed containers, Postgres, Terraform for durable resources. No Kubernetes until workload shape justifies it. Engineering co-founder platform experience informs this stack; details evolve with the build.
+> Engineering co-founder platform experience informs target stack direction; Joanna has not yet contributed technical deliverables. Details evolve with the build and remain subject to documented employer COI controls.
 
 ---
 
@@ -287,7 +287,7 @@ We are building toward that future **one narrow mechanism at a time**, with vali
 | | |
 |---|---|
 | **Aleksy Pyrz** | Founder — product, wedge validation, coordination thesis. [LinkedIn](https://www.linkedin.com/in/aleksypyrz/) |
-| **Joanna Pyrz** | Engineering co-founder — platform architecture, AWS/infra design, build review. Principal AWS Engineer at BHP; transition to full-time Kynlet is sequenced against validation milestones (not claimed complete here). |
+| **Joanna Pyrz** | Engineering co-founder — platform architecture, AWS/infra design, future build review. Principal AWS Engineer at BHP. Employer COI disclosure and review complete (outcome: Proceed to monitor — employer governance only, not BHP endorsement of Kynlet). No prior technical deliverables to Kynlet; activity governed by documented COI controls. Full-time transition sequenced against validation milestones. |
 
 We bias toward readable architecture, explicit tradeoffs, and materials that survive technical diligence.
 

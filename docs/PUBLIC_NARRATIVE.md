@@ -285,7 +285,7 @@ Product direction, wedge validation, and propagation thesis. Focus: how post-MVP
 
 ## Joanna Pyrz — Engineering Co-Founder, Technology
 
-Engineering ownership, platform and infrastructure architecture, and technical execution for Kynlet. Principal AWS Engineer at BHP. Transition to full-time Kynlet is sequenced against validation milestones — state honestly; do not claim full-time unless factual.
+Engineering co-founder for platform architecture, AWS/infra design, and future technical execution for Kynlet. Principal AWS Engineer at BHP. Employer COI disclosure and review complete (outcome: Proceed to monitor — employer governance only, not BHP endorsement). No prior technical deliverables to Kynlet. Activity governed by documented COI controls. Full-time transition sequenced against validation milestones — state honestly; do not claim full-time unless factual.
 
 ---
 
